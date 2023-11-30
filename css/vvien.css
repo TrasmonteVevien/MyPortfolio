@@ -6,18 +6,18 @@ body {
     
     background-repeat: no-repeat; 
     background-position: top;
-    color: #ffffff; /* Light text color */
+    color: #090707; /* Light text color */
 }
 
 
 .abt{
-    color: rgb(0, 0, 0);
+    color: rgb(254, 254, 254);
     transition: transform 0.5s;
 }
 
 .abt:hover{
     font-size: xx-large;
-    color: #9e42f5;
+    color: #615d64;
 }
 
 .bigsize{
